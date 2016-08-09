@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ccb9dce8793effb4e8aaeddbca407222
+timeCreated: 1467062173
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dudePrefab: {fileID: 152414, guid: 56d9dfb68ab62b04dbded1ea654bf75c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
